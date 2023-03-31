@@ -39,12 +39,12 @@ class JDM extends Autos{
 const ciudad ={
     nombre : "Tokyo",
     existe : true,
-    CaracteristicasH :{
+    Caracteristicas_ciudad :{
         Población : "alta",
-        autos: 'bastantes',
-        autopistas: true,
-        carreras: false,
-    },
+        Autos: "bastantes",
+        Autopistas: true,
+        Carreras_legales: false,
+    }
 }
 
 export{JDM,ciudad}
